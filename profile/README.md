@@ -1,4 +1,5 @@
-![Banner Image](bc_profile_web.webp)
+![Banner Image](https://raw.githubusercontent.com/bendcircular/.github/main/profile/bc_profile_web.webp)
+
 # Be the change you want to see in the world
 
 ## Our Mission
